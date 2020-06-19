@@ -8,8 +8,12 @@ min-height: 50rem;
 
 .header {
 height: 7rem;
+font-size: 1.4rem;
 background-color: #fff;
-border-bottom: var(--color-Grey-light-2) ;
+border-bottom: var(--color-Grey-light-2);
+display: flex;
+justify-content: space-between;
+align-items: center;
 }
 
 .content {
