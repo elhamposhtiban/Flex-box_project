@@ -183,3 +183,21 @@
     color: var(--color-Grey-light-4);
     padding: 2.5rem;
 }
+
+
+/////////////////////////////////////////
+////// GALLERY
+
+.gallery{
+    display: flex;
+&__item {
+
+}
+
+&__photo {
+
+    width:100%;
+    display: block;
+
+}
+}

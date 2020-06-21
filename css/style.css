@@ -162,6 +162,12 @@ body {
   color: var(--color-Grey-light-4);
   padding: 2.5rem; }
 
+.gallery {
+  display: flex; }
+  .gallery__photo {
+    width: 100%;
+    display: block; }
+
 .container {
   max-width: 120rem;
   margin: 8rem auto;
