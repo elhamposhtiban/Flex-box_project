@@ -33,3 +33,18 @@ justify-content: space-between;
     height: 80rem;
     flex: 1 ;
 }
+
+.detail {
+    display: flex;
+    padding: 4.5rem;
+}
+
+.description {
+    flex: 0 0 60%;
+    margin-right: 4.5rem;
+}
+
+.user-reviews {
+background-color: palevioletred;
+flex: 1;
+}
